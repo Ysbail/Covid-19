@@ -3,7 +3,10 @@
 
  ### [Covid-19 Basic Analyse](https://github.com/Ysbail/Covid-19/blob/master/covid_basic_analyse.ipynb)
 
- This file contains basic analysis and plots.
+ This file contains basic analysis and plots. <br>
+ Proportion between current stats:
+
+ ![6](https://user-images.githubusercontent.com/51002300/77226297-8bdcb900-6b77-11ea-8c17-9e5fa35a089b.JPG)
 
  ### [Covid-19 Maps](https://github.com/Ysbail/Covid-19/blob/master/covid_maps.ipynb)
 
@@ -17,3 +20,21 @@
 ![3](https://user-images.githubusercontent.com/51002300/76766200-eb158480-6797-11ea-9a4b-df87d4e06e7a.JPG)
 
 ![4](https://user-images.githubusercontent.com/51002300/76766202-eb158480-6797-11ea-9c20-5e52f83d38b3.JPG)
+
+### [Covid-19 Tests](https://github.com/Ysbail/Covid-19/blob/master/covid_test_stats.ipynb)
+
+Using official datasets from https://ourworldindata.org/ I visualize how many tests each country have done and the proportion of the number of cases<br>
+
+Total number of tests:<br>
+![7](https://user-images.githubusercontent.com/51002300/77226298-8c754f80-6b77-11ea-9714-68f17389410d.JPG)<br>
+
+Ratio of tests to confirmed cases<br>
+![8](https://user-images.githubusercontent.com/51002300/77226300-8d0de600-6b77-11ea-8863-248349cffa65.JPG)
+
+### [Covid-19 Changes over time](https://github.com/Ysbail/Covid-19/blob/master/covid_changes_over_time.ipynb)
+
+In this file you will find a summary of the countries with the highest incidence rates in the line graphs, which allows you to analyse the data over time
+
+![9](https://user-images.githubusercontent.com/51002300/77226443-c8f57b00-6b78-11ea-8333-b651c9533b5c.JPG)
+
+![10](https://user-images.githubusercontent.com/51002300/77226444-c98e1180-6b78-11ea-8545-3637c8022c23.JPG)
