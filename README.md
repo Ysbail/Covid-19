@@ -1,5 +1,8 @@
 # Covid-19
  The place where I will add data analysis, vizualization and models related to covid-19 data.
+ <br> The data I am using comes from
+ <br>https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+ <br>https://ourworldindata.org/coronavirus
 
  ### [Covid-19 Basic Analyse](https://github.com/Ysbail/Covid-19/blob/master/covid_basic_analyse.ipynb)
 
