@@ -41,3 +41,13 @@ In this file you will find a summary of the countries with the highest incidence
 ![9](https://user-images.githubusercontent.com/51002300/77226443-c8f57b00-6b78-11ea-8333-b651c9533b5c.JPG)
 
 ![10](https://user-images.githubusercontent.com/51002300/77226444-c98e1180-6b78-11ea-8545-3637c8022c23.JPG)
+
+### [Covid-19 Changes over time and incremental](https://github.com/Ysbail/Covid-19/blob/master/covid_over_time_and_incremental.ipynb)
+
+Inside the file you can find plots with comparision of the growth in time.
+
+![11](https://user-images.githubusercontent.com/51002300/77454847-6232c480-6df9-11ea-93bd-9b839803e0ad.JPG)
+
+
+And daily growth for each types of cases for 50 countries
+![12](https://user-images.githubusercontent.com/51002300/77454978-90180900-6df9-11ea-8158-c6555091f2ad.JPG)
